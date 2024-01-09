@@ -1,0 +1,4 @@
+{
+    "game": ["configs.lua", "mpbhop.lua", "game.lua"], 
+    "ui": ["configs.lua", "ranking.lua", "ui.lua"]
+}
